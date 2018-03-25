@@ -1,1 +1,4 @@
 mission.txt
+
+
+<strong>This is for the purposes of confict</strong>
