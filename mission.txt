@@ -1,1 +1,3 @@
 mission.txt
+
+<em>Now we have deliberately changed to em tags instead of strong as in the mission_edits branch.</em>
